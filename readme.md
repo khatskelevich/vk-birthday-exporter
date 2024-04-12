@@ -15,4 +15,4 @@
 
 ---
 
-DEMO: http://bserg.ru/project/vk-exporter
+DEMO: https://khatskelevich.github.io/vk-birthday-exporter/
